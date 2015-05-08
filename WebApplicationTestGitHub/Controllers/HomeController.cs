@@ -15,7 +15,7 @@ namespace WebApplicationTestGitHub.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "My First Project on GitHub";
 
             return View();
         }
